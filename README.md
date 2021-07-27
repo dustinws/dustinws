@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- I write code for the military
+- I like to climb up rocks
+- Sometimes I lift up heavy things and then put them back down
+- Still trying to figure out functional programming
+
 <!--
 **dustinws/dustinws** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
