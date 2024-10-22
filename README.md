@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- I write code for the military
+- I'd write code for free, but I'm happy to be paid for it
 - I like to climb up rocks
 - Sometimes I lift up heavy things and then put them back down
 - Still trying to figure out functional programming
